@@ -1,0 +1,23 @@
+{
+    "page_photogallery": {
+        "file": "/photo_album.tpl",
+        "options": {
+            "default": {
+                "name": "Photos list",
+                "file": "/photo_album.tpl",
+                "image": "/assets/image/scheme/orange.jpg"
+            },
+            "slider": {
+                "name": "Photos slider",
+                "file": "/photo_album_slider.tpl",
+                "image": "/assets/image/scheme/orange.jpg"
+            }
+        }
+    },
+    "page_text": {
+        "file": "/text.tpl"
+    },
+    "blog_article": {
+        "file": "/article.tpl"
+    }
+}

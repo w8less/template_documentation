@@ -1,0 +1,8 @@
+{
+    "npm": "update",
+    "image": "@settings/image.json",
+    "page": "@settings/page.json",
+    "file": "@settings/file.json",
+    "scheme": "@settings/scheme.json",
+    "admin": "@settings/admin.json"
+}
