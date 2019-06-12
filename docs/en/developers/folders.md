@@ -3,6 +3,13 @@
 
 In case you are authorized front-end developer, you will be provided with ftp access to your test environment.
 
+namely :
+- host
+- login
+- password
+
+also you must tell us your ip address (you can find it here https://whoer.net/ru) without ip access , you can`t connect to ftp
+
 Create separate folders for different templates.
 
 Template should contain [settings.json](../settings/settings.md) file, to be properly displayed.
