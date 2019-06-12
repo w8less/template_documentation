@@ -22,6 +22,12 @@ You should be authorized on the website as developer: log into admin panel of th
 and click any link that redirects to the website e.g. right next to the site name.
 Then you can access your templates in ftp folders, for now by this address: `/ajax/developer_templates/`
 
+remark: 
+if you don`t click any link that redirects to the website  
+or 
+if you inactive some time.
+You'll catch error "Forbidden (#403)"
+
 `$user.developer_templates` - variable provide address to access list of options, can be used as regular link to page or ajax json/jsonp request
 
 ```html
