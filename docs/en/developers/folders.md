@@ -8,7 +8,7 @@ namely :
 - login
 - password
 
-- also you must tell us your ip address (you can find it here https://whoer.net/ru) without ip access , you can`t connect to ftp
+- also you must tell us your ip address (you can find it here https://whoer.net/ru). Without ip access , you can`t connect to ftp.
 
 Create separate folders for different templates.
 
