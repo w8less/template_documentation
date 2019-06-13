@@ -3,8 +3,6 @@
 
 In case you are authorized front-end developer, you will be provided with ftp access to your test environment.
 
-
-(*) 
 namely :
 - host
 - login
@@ -17,7 +15,6 @@ connection to ftp:
 2) enter the host, login, password
 3) connect
 
-And next 
 Create separate folders for different templates.
 
 Template should contain [settings.json](../settings/settings.md) file, to be properly displayed.
