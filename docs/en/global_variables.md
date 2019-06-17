@@ -1,6 +1,8 @@
 
 # Global variables are initialized in all(pages, tags) templates
 
+You can always see all the properties of a variable `<{$prop|debug_print_var}>`
+
 ## `$site` - global website settings
 
 `$site.name` - `string` company name which the site represents
